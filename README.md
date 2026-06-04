@@ -4,7 +4,7 @@ SEO-optimized, lightweight website built for a solar installation company. Desig
 
 
 **Live Demo**: https://d-tek.netlify.app
-**Portfolio**: https://yourportfolio.com
+
 
 ---
 
